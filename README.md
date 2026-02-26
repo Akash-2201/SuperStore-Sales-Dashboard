@@ -8,6 +8,12 @@ An AI-based prediction model was also developed using Python and XGBoost to pred
 
 ---
 
+## Live Demo
+
+ https://churn-prediction-a7lkppdggwizzffhfgrbaf.streamlit.app/
+
+---
+
 ## Objectives
 
 - Analyze sales performance across regions, categories, and customer segments  
